@@ -2,8 +2,14 @@ import time
 import pandas as pd
 import numpy as np
 # time_stats
+<<<<<<< HEAD
 # here is a change
 # the seconds change 
+=======
+#change 1 
+# some change
+
+>>>>>>> 1dc14caf17aca46c95e6afe1a4752919c186a76c
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
